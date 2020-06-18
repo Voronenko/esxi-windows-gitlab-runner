@@ -1,0 +1,6 @@
+terraform.d
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+hosts
+sa_gitlab_runner_win
